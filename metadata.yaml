@@ -1,0 +1,45 @@
+_repo: The-Tuzuk-i-Jahangiri-or-Memoirs-of-Jahangir-Volume-2-of-2_53716
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Rogers, Alexander
+    birthdate: 1825
+    deathdate: 1911
+    gutenberg_agent_id: '47486'
+    url: http://www.gutenberg.org/2009/agents/47486
+creator:
+  author:
+    agent_name: Jahangir, Emperor of Hindustan
+    aliases:
+    - جهانگیرشاه
+    - Jahāngīr
+    birthdate: 1569
+    deathdate: 1627
+    gutenberg_agent_id: '47485'
+    url: http://www.gutenberg.org/2009/agents/47485
+    wikipedia: https://en.wikipedia.org/wiki/Jahangir
+  editor:
+    agent_name: Beveridge, Henry
+    alias: Beveridge, H. (Henry)
+    birthdate: 1837
+    deathdate: 1929
+    gutenberg_agent_id: '40858'
+    url: http://www.gutenberg.org/2009/agents/40858
+description: ''
+gutenberg_issued: '2016-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mogul Empire'
+- !lcc 'DS'
+- !lcsh 'Jahangir, Emperor of Hindustan, 1569-1627'
+- !lcsh 'India -- Kings and rulers -- Biography'
+- !lcsh 'India -- History -- 1526-1765'
+- GITenberg
+title: 'The Tuzuk-i-Jahangiri: or, Memoirs of Jahangir (Volume 2 of 2)'
+url: http://www.gutenberg.org/ebooks/53716
